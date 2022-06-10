@@ -15,11 +15,8 @@
 
 ## Heroku link
 
-- Heroku: [Web Link]()
+- Heroku: [Web Link](https://saif-book-store.herokuapp.com/)
 
-## Netlify link
-
-- Netlify: [Web Link]()
 ## Development set up
 
 Clone Repository using
